@@ -20,6 +20,7 @@ namespace InterfaceAbstractDemo.Concrete
             if (_customerCheckService.CheckIfRealPerson(customer))
             {
                 base.Save(customer);
+                Console.WriteLine("Starbucks");
             }
             else
             {

@@ -1,5 +1,6 @@
 ﻿using InterfaceAbstractDemo.Abstract;
 using System;
+using MernisServiceReference;
 
 namespace InterfaceAbstractDemo.Entities
 {
